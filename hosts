@@ -1,0 +1,11 @@
+[controller]
+controller1
+controller2
+controller3
+
+[compute]
+compute1
+compute2
+compute3
+
+VIP=vip_host

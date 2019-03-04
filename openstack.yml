@@ -1,0 +1,9 @@
+---
+#This playbook deploy openstack all controller nodes and compute nodes
+
+# deploy controller nodes
+- name: deploy controller node
+  hosts: controller
+  roles:
+    - controller
+
